@@ -1,0 +1,10 @@
+.bg-img {
+  /* background-image: url(https://images.unsplash.com/photo-1434137186716-a21ef91a36ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2063&q=80); */
+  background-image: url(../images/4dpAqfTbvKA-unsplash.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  display: block;
+  max-width: 100%;
+}
