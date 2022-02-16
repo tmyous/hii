@@ -96,7 +96,7 @@ async function myMap() {
 
         // Log full response
         // console.log(response);
-        console.log(latitude, longitude);
+        // console.log(latitude, longitude);
         // Geometry
         lat = response.data.results[0].geometry.location.lat || latitude;
         lng = response.data.results[0].geometry.location.lng || longitude;
